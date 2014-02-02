@@ -34,3 +34,8 @@ To enable the theme and adjust theme settings edit your `Preferences.sublime-set
     "numix_sidebar_tree_medium": true
     "numix_sidebar_tree_large": true
     "numix_sidebar_tree_xlarge": true
+    
+
+##### Original theme
+
+https://github.com/itsthatguy/theme-itg-flat
