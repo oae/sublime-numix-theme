@@ -1,0 +1,17 @@
+{
+    "schema_version": "2.0",
+    "packages": [{
+        "name": "Theme - Numix",
+        "details": "https://github.com/alperenelhan/sublime-numix-theme",
+        "homepage": "https://github.com/alperenelhan/sublime-numix-theme",
+        "author": "Osman Alperen Elhan",
+        "readme": "https://raw.github.com/alperenelhan/sublime-numix-theme/master/README.md",
+        "releases": [{
+            "version": "0.1.0",
+            "url": "https://codeload.github.com/alperenelhan/sublime-numix-theme/zip/0.1.0",
+            "sublime_text": "*",
+            "details": "https://github.com/alperenelhan/sublime-numix-theme/tags"
+        }],
+
+    }]
+}
