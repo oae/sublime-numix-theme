@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/window.png)
+![](https://i.imgur.com/t6ZwZB4.png)
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/search.png)
+![](https://i.imgur.com/LkH2hnt.png)
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/panel.png)
+![](https://i.imgur.com/5qGMEys.png)
 
 ## Installation
 
